@@ -1,0 +1,86 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    
+}
+.container{
+    margin: 0 auto;
+    width: 1150px;
+    padding: 50px;
+    box-sizing: border-box;
+
+}
+.header{
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 55px;
+    color: #121212;
+    margin-bottom: 30px;
+    letter-spacing: -1.8px;
+}
+
+.interior{
+    background-image: url(../resourses/background-team.png);
+    background-repeat: no-repeat;
+    width: 1150px;
+    height: 500px;
+    margin-bottom: 150px;
+   
+}
+
+.interior-text{
+    width: 460px;
+    height: 81px;
+    padding-left: 40px;
+    padding-right: 500px;
+    padding-top: 387px;
+    margin-bottom: 40px;
+   
+}
+.text{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27.32px;
+    color: white;
+}
+
+h2 {
+    color: #121212;
+    margin-bottom: 30px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.54px;
+    text-transform: uppercase;
+}
+
+
+
+.description{
+    width: 1048px;
+    height: 316px;
+    margin-right: 224px;
+    margin-bottom: 15px;
+    font-weight: 400;
+    font-size: 42.5px;
+    line-height: 46.5px;
+    color: #121212;
+}
+
+
+
+.view-service{
+    font-family: Manrope;
+    border: 1px solid red;
+    border-radius: 5px;
+    text-decoration: none;
+    width: 255px;
+    height: 67px;
+    text-align: center;
+    line-height: 67px;
+    color: white;
+    background-color: #AD1818;
+    padding: 16px 24px;
+   
+}
